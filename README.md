@@ -1,1 +1,1 @@
-# SASSY_Device
+# RFID Card Reader Device
